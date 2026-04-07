@@ -1,14 +1,8 @@
-## Hi there 👋
-
-
-🎓 I am a Computer Vision student at the University of Science and Technology Houari Boumediene<br>
-💻 I have a strong passion for web and application development<br>
-🤖 I am deeply interested in artificial intelligence and computer vision<br>
-🛠️ I enjoy building projects that combine these fields<br>
-📚 I love learning and creating new things<br>
 
 # 💫 About Me:
-## Hi there 👋<br><br><br>🎓 I am a Computer Vision student at the University of Science and Technology Houari Boumediene<br><br>💻 I have a strong passion for web and application development<br><br>🤖 I am deeply interested in artificial intelligence and computer vision<br><br>🛠️ I enjoy building projects that combine these fields<br><br>📚 I love learning and creating new things<br><br>
+
+
+# Hi there 👋<br><br><br>🎓 I am a Computer Vision student at the University of Science and Technology Houari Boumediene<br><br>💻 I have a strong passion for web and application development<br><br>🤖 I am deeply interested in artificial intelligence and computer vision<br><br>🛠️ I enjoy building projects that combine these fields<br><br>📚 I love learning and creating new things<br><br>
 
 
 ## 🌐 Socials:
